@@ -1,0 +1,1 @@
+curl -X POST --header "Content-Type: application/json" --header "Accept: application/json" -d @age0.json "https://host:443/SetUserAge"
